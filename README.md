@@ -39,12 +39,4 @@ Notes
 12. When finished, press **`q`** in the webcam window to exit the program. (Remember: only press the key, do **NOT** press Enter.)
 
 
-volume_detection_2/
-│
-├── live_depth_monitor.py       # Your main Python script with the MiDaS code
-├── README.md                   # Project README with instructions
-├── requirements.txt            # (Optional) List of pip packages for easy install
-├── .venv/                      # (Optional) Virtual environment folder
-└── assets/                     # (Optional) Any images, configs, or helper files
-
 
